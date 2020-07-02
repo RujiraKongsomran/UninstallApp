@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UninstallApp</string>
+    <string name="uninstall">Uninstall</string>
 </resources>
